@@ -1,0 +1,49 @@
+2023-08-06 18:26:37 DEBUG Commanfun:36 - debugging......
+2023-08-06 18:26:37 INFO  Commanfun:15 - Creating user
+2023-08-06 18:26:40 INFO  Commanfun:21 - User is created
+2023-08-06 18:26:40 INFO  Commanfun:28 -  Reading user info
+2023-08-06 18:26:42 INFO  Commanfun:32 - User info displayed
+2023-08-06 18:26:42 INFO  Commanfun:39 - Updating the user
+2023-08-06 18:26:45 INFO  Commanfun:51 - The user has been updated
+2023-08-06 18:26:45 INFO  Commanfun:58 - Deleting the user
+2023-08-06 18:26:47 INFO  Commanfun:62 - User has been deleted
+2023-08-06 20:41:50 INFO  Commanfun:16 - Creating user
+2023-08-06 20:41:52 INFO  Commanfun:29 -  Reading user info
+2023-08-06 20:41:52 INFO  Commanfun:40 - Updating the user
+2023-08-06 20:41:52 INFO  Commanfun:59 - Deleting the user
+2023-08-06 20:43:00 INFO  Commanfun:16 - Creating user
+2023-08-06 20:43:02 INFO  Commanfun:29 -  Reading user info
+2023-08-06 20:43:02 INFO  Commanfun:40 - Updating the user
+2023-08-06 20:43:02 INFO  Commanfun:59 - Deleting the user
+2023-08-06 20:44:17 INFO  Commanfun:16 - Creating user
+2023-08-06 20:44:21 INFO  Commanfun:22 - User is created
+2023-08-06 20:44:21 INFO  Commanfun:29 -  Reading user info
+2023-08-06 20:44:22 INFO  Commanfun:33 - User info displayed
+2023-08-06 20:44:22 INFO  Commanfun:40 - Updating the user
+2023-08-06 20:44:25 INFO  Commanfun:52 - The user has been updated
+2023-08-06 20:44:25 INFO  Commanfun:59 - Deleting the user
+2023-08-06 20:44:27 INFO  Commanfun:63 - User has been deleted
+2023-08-06 21:34:37 INFO  Commanfun:14 - Creating user
+2023-08-06 21:34:41 INFO  Commanfun:20 - User is created
+2023-08-06 21:34:41 INFO  Commanfun:27 -  Reading user info
+2023-08-06 21:34:43 INFO  Commanfun:31 - User info displayed
+2023-08-06 21:34:43 INFO  Commanfun:38 - Updating the user
+2023-08-06 21:34:46 INFO  Commanfun:50 - The user has been updated
+2023-08-06 21:34:46 INFO  Commanfun:57 - Deleting the user
+2023-08-06 21:34:47 INFO  Commanfun:61 - User has been deleted
+2023-08-06 21:35:43 INFO  Commanfun:14 - Creating user
+2023-08-06 21:35:47 INFO  Commanfun:20 - User is created
+2023-08-06 21:35:47 INFO  Commanfun:27 -  Reading user info
+2023-08-06 21:35:49 INFO  Commanfun:31 - User info displayed
+2023-08-06 21:35:49 INFO  Commanfun:38 - Updating the user
+2023-08-06 21:35:52 INFO  Commanfun:50 - The user has been updated
+2023-08-06 21:35:52 INFO  Commanfun:57 - Deleting the user
+2023-08-06 21:35:53 INFO  Commanfun:61 - User has been deleted
+2023-08-06 23:02:44 INFO  Commanfun:14 - Creating user
+2023-08-06 23:02:47 INFO  Commanfun:20 - User is created
+2023-08-06 23:02:47 INFO  Commanfun:27 -  Reading user info
+2023-08-06 23:02:49 INFO  Commanfun:31 - User info displayed
+2023-08-06 23:02:49 INFO  Commanfun:38 - Updating the user
+2023-08-06 23:02:52 INFO  Commanfun:50 - The user has been updated
+2023-08-06 23:02:52 INFO  Commanfun:57 - Deleting the user
+2023-08-06 23:02:53 INFO  Commanfun:61 - User has been deleted
